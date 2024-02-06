@@ -1,6 +1,7 @@
 
 # SHOPIFY clone as a REST API in Django Rest Framework (DRF)
 
+
 **Shopster** is a online store platform that enables a business to quickly set up and run an online retail store.
 
 A typical seller installs the **Shopster** app, Signs up using his mobile number and creates his store. He can then start uploading inventory (as products) to his store.
