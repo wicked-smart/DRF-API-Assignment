@@ -10,7 +10,7 @@ Your assignment is to Design a very basic API (Django DRF) & database (any SQL d
 
 ### Detailed breakdown of the workflow -
 
- ### endpoints for seller side. (Words in Bold indicates table names)
+ ### Endpoints for seller side. (Words in Bold indicates table names)
 
  
 1.  seller signs up using his mobile number that creates an **account**
